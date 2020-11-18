@@ -41,8 +41,8 @@ description:
 
     longDescription: > 
           Il SIPEE gestisce l'elenco regionale dei soggetti abilitati al rilascio dell'Attestato di Prestazione Energetica (APE), i dati inseriti negli APE e la raccolta degli attestati trasmessi dai professionisti.
-		  
-    features: 
+	
+	features: 
        - Inviare APE
        - Consultare APE
        - Protocollare APE
