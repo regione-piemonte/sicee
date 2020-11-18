@@ -30,7 +30,7 @@ I prerequisiti per l'installazione della componente sono i seguenti:
 # Versioning
 Per la gestione del codice sorgente viene utilizzata Git. Per la gestione del versioning si fa riferimento alla metodologia [Semantic Versioning](https://semver.org/) 
 
-#Copyrights
+# Copyrights
 (C) Copyright 2020 Regione Piemonte
 
 # License
