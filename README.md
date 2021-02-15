@@ -35,4 +35,4 @@ Per la gestione del codice sorgente viene utilizzata Git. Per la gestione del ve
 
 # License
 Questo software è distribuito con licenza EUPL-1.2
-Consultare i file EUPL v1_2 IT-LICENSE.txt e EUPL v1_2 EN-LICENSE.txt per maggiorni dettagli.
+Consultare i file EUPL v1_2 IT-LICENSE.txt e EUPL v1_2 EN-LICENSE.txt per maggiori dettagli.
